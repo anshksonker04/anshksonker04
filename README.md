@@ -1,5 +1,27 @@
 # 💫 About Me:
-I am currently a Third Year Student of CSE Data Science<br>I am looking to collaborate on data analysis and ML projects <br>I am currently learning machine learning and deep learning<br>
+Hi, I'm ANSH! 👋
+
+I am a Data Science Enthusiast and Computer Science Student passionate about uncovering insights from data and building intelligent models.
+
+🛠 Tech Stack
+
+Languages: Python, C++, SQL
+
+Data: Pandas, NumPy, Scikit-Learn, Power BI
+
+Tools: Git, Jupyter, VS Code
+
+🚀 Featured Projects
+
+[Project Name]: Brief description of what it solves.
+
+[Project Name]: Brief description of the tech used.
+
+🏆 Achievements
+
+[Silver Badge] in Java on HackerRank
+
+Top [X]% in [Hackathon Name]
 
 
 ## 🌐 Socials:
