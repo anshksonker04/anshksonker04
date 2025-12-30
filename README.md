@@ -1,28 +1,13 @@
 # 💫 About Me:
 Hi, I'm ANSH! 👋
 
-I am a Data Science Enthusiast and Computer Science Student passionate about uncovering insights from data and building intelligent models.
+🎓 Computer Science Student specializing in Data Science. I build intelligent systems that solve real-world problems.
 
-🛠 Tech Stack
+3-Star (Silver) Badge in JAVA on HackerRank
 
-Languages: Python, C++, SQL
+5-Star (Gold) Badge in C++ on HackerRank
 
-Data: Pandas, NumPy, Scikit-Learn, Power BI
-
-Tools: Git, Jupyter, VS Code
-
-🚀 Featured Projects
-
-[Project Name]: Brief description of what it solves.
-
-[Project Name]: Brief description of the tech used.
-
-🏆 Achievements
-
-[Silver Badge] in Java on HackerRank
-
-Top [X]% in [Hackathon Name]
-
+Always open to discussing Data Structures, Algorithms, and Indian History.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ansh.sonker.1344) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cruzer_king001_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshsonker89) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anshsonker13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonkeransh442@gmail.com) 
